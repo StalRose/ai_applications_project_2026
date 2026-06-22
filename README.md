@@ -21,7 +21,7 @@ For each mutation:
 
 1. The mutation position was mapped to the human reference genome (GRCh38).
 2. A DNA sequence window centered on the mutation was extracted.
-3. Wild-type and mutated sequences were generated.
+3. Mutated sequences were generated.
 4. Biological annotation features were added.
 
 ### Target Classes
